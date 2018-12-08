@@ -1,5 +1,5 @@
 {
-  "name": "profile",
+  "name": "@sogasawara/profile",
   "version": "1.0.0",
   "description": "create profile",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/shotaogasawara/profile.git"
   },
-  "author": "ogasawara",
+  "author": "sogasawara",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/shotaogasawara/profile/issues"
